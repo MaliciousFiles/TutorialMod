@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/orientable_vertical",
+  "textures": {
+    "front": "tutorialmod:block/tutorial_block_front",
+    "side": "tutorialmod:block/tutorial_block"
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"NNN",
+		"NNN",
+		"NNN"
+	],
+	
+	"key":
+	{
+		"N": { "item": "tutorialmod:tutorial_nugget" }
+	},
+	
+	"result": { "item": "tutorialmod:tutorial_ingot" }
+}
